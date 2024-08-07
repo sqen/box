@@ -1,14 +1,5 @@
-//目前垃圾线路有 老刘备
 {
   "urls": [
-    {
-      "url": "",
-      "name": "🐊🐊接口更新7.11🐊🐊"
-        },
-    {
-      "url": "",
-      "name": "🍀此接口免费禁止贩卖🍀"
-        },
     {
       "url": "http://www.饭太硬.com/tv",
       "name": "🚀饭太硬推荐"
@@ -48,8 +39,6 @@
       "url": "https://100km.top/0",
       "name": "🚀骚 0线路"
         },
-
-
     {
       "url": "https://gitdl.cn/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🚀高天流云js"
